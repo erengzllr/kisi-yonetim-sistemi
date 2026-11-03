@@ -1,0 +1,26 @@
+# Python / Django
+backend_api/.venv/
+backend_api/__pycache__/
+backend_api/**/__pycache__/
+backend_api/*.py[cod]
+backend_api/**/*.py[cod]
+backend_api/db.sqlite3
+
+# Flutter / Dart generated files
+mobile_app/.dart_tool/
+mobile_app/build/
+mobile_app/.flutter-plugins
+mobile_app/.flutter-plugins-dependencies
+mobile_app/android/local.properties
+
+# Stale generated copy; the maintained app is under mobile_app/
+/flutter_app/
+
+# Clean staging copy for browser upload
+
+# IDE and OS files
+.idea/
+.vscode/
+*.iml
+Thumbs.db
+.DS_Store
